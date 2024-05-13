@@ -1,4 +1,5 @@
 This project analyzes Airbnb listings in New York City to understand market conditions and customer preferences following the pandemic's impact on travel.
+
 Key Findings:
 
 Pricing: Entire houses/apartments are generally more expensive than private or shared rooms, with Manhattan being the most expensive borough overall.
